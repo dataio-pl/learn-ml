@@ -24,6 +24,8 @@ Below are my notes related to study materials related to Machine Learning and re
 
 [yt/matthew_berman](https://www.youtube.com/@matthew_berman)
 
+[Attention Is All You Need](https://www.youtube.com/watch?v=iDulhoQ2pro)
+
 ### Tools
 
 [numpy](https://numpy.org/doc/stable/index.html)
