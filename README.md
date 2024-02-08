@@ -26,6 +26,8 @@ Below are my notes related to study materials related to Machine Learning and re
 
 [Attention Is All You Need](https://www.youtube.com/watch?v=iDulhoQ2pro)
 
+[Neural Networks: Zero to Hero by Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+
 ### Tools
 
 [numpy](https://numpy.org/doc/stable/index.html)
