@@ -4,6 +4,10 @@
 
 Below are my notes related to study materials related to Machine Learning and related content.
 
+### People
+
+[Cristian Leo](https://cristianleoo.github.io/)
+
 ### Web
 
 [tensorflow/learn-ml](https://www.tensorflow.org/resources/learn-ml)
